@@ -9,6 +9,8 @@
     "strictNullChecks": true,
     "allowJs": false,
     "declaration": true,
+    "baseUrl": ".",
+    "ignoreDeprecations": "6.0",
     "plugins": [
       {
         "name": "@astrojs/ts-plugin"

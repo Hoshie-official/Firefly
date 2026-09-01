@@ -35,7 +35,7 @@ const pages = resolvePageToggles({
 	// ── 关于 (About) ──────────────────────────────────
 
 	// 打赏页面开关
-	sponsor: true,
+	sponsor: false,
 });
 
 export const siteConfig: SiteConfig = {
@@ -46,7 +46,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Hoshie",
 
 	// 站点 URL
-	site_url: "https://hoshie.top",
+	site_url: "https://blog.hoshie.top",
 
 	// 站点描述
 	description:
@@ -59,7 +59,6 @@ export const siteConfig: SiteConfig = {
 		"Astro",
 		"ACGN",
 		"博客",
-		"技术博客",
 		"静态博客",
 	],
 

@@ -1,10 +1,13 @@
 ---
 title: 第一篇测试
 published: 2025-05-21
-description: 这个可以不填
+updated: 2026-09-01
+description: 文章简短描述，可以不填
 image: ./cover.jpg
-tags: [前端, 开发]
-category: 前端开发
+
+category: 可以不填
+series: "测试文章"
+seriesOrder: 1
 draft: false
 ---
 

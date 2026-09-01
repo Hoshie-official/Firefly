@@ -5,7 +5,7 @@ updated: 2026-09-01
 description: 文章简短描述，可以不填
 image: ./images/firefly3.avif
 
-category: 可以不填
+category: 测试文档
 series: "测试文章"
 seriesOrder: 1
 draft: false

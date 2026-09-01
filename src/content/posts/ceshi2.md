@@ -2,7 +2,7 @@
 title: 第二篇测试
 published: 2026-09-01
 description: 文章简短描述，可以不填
-image: ./firefly1.jpg
+image: ./images/firefly3.avif
 
 category: 可以不填
 series: "测试文章"
